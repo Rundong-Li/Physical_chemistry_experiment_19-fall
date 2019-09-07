@@ -1,0 +1,8 @@
+System,Scan Rate (V/s),"Ep,c","Ep,a",deltaEp,"Ip,c","Ip,a","Ip,c/Ip,a"
+4mM ascorbic acid,0.01,NaN,0.289,NaN,NaN,-2.99E-05,NaN
+,0.02,NaN,0.317,NaN,NaN,-2.92E-05,NaN
+,0.04,NaN,0.341,NaN,NaN,-3.34E-05,NaN
+,0.06,NaN,0.315,NaN,NaN,-7.58E-05,NaN
+,0.08,NaN,0.367,NaN,NaN,-4.66E-05,NaN
+,0.1,NaN,0.377,NaN,NaN,-5.30E-05,NaN
+,0.2,NaN,0.403,NaN,NaN,-6.31E-05,NaN
