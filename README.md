@@ -17,4 +17,4 @@ Original data, codes, jupyter notebooks, figures and results for physical chemis
 
 ## Demo figures
 ![demo1](experiment_7/figures/I-V_diff_c.png)
-![demo2](experiment_5/figurs/Rectified_A.png)
+![demo2](experiment_5/figures/Rectified_A.png)
