@@ -7,7 +7,7 @@ Original data, codes, jupyter notebooks, figures and results for physical chemis
 3. [experiment 3](experiment_3/figures_and_results.pdf) 👨‍🔬
 4. [experiment 4](experiment_4/figures_and_results.pdf) ❄️
 5. [experiment 5](experiment_5/figures_and_results.pdf) 🥼
-6. [experiment 6]() 🔋
+6. [experiment 6](experiment_6/results.pdf) 🔋
 7. [experiment 7](experiment_7/figures.pdf) 󠁁📊
 8. [experiment 8](experiment_8/figures_and_results.pdf) 🍬
 9. [experiment 9](experiment_9/figures_and_results.pdf) 🌡️
@@ -21,3 +21,7 @@ Original data, codes, jupyter notebooks, figures and results for physical chemis
 ![demo1](experiment_7/figures/I-V_diff_c.png)
 ![demo2](experiment_5/figures/Rectified_A.png)
 ![demo3](experiment_3/figures/standard_and_interpolate.png)
+
+
+## Done!
+This repository is completed 2019.10.16 10:55am (Beijing time)!
